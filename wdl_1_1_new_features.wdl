@@ -1,5 +1,6 @@
 version 1.1
 
+# Make sure this can be registered in Dockstore
 workflow min_test {
   input {
     Int value1
